@@ -1,9 +1,9 @@
 ### Hi there, I'm Vinit Bhat 👋
 
+- 💻 I'm a Tech enthusiast
 - 🎓 I'm a 1st year MCA Student at Jamia Millia Islamia
 - 🔭 I’m currently working as Programmer analyst.
-- ⚙  I’m currently working on Automation QA and Backend Dev.
-- 💻 I'm a Tech enthusiast
+- ⚙  I’m learning backend development and DevOps.
 
 ### Reach me out at: [Email](99.bhatvinit@gmail.com) [Telegram](https://t.me/BhatSahab)
 
