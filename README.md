@@ -1,7 +1,7 @@
 ### Hi there, I'm Vinit Bhat 👋
 
 - 💻 I'm a Tech enthusiast
-- 🎓 I'm a 1st year MCA Student at Jamia Millia Islamia
+- 🎓 I'm a 2nd year MCA Student at Jamia Millia Islamia
 - 🔭 I’m currently working as Programmer analyst.
 - ⚙  I’m learning backend development and DevOps.
 
