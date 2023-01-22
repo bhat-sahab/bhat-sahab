@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as Programmer analyst.
 - ⚙  I’m learning backend development and DevOps.
 
-### Reach me out at: [Email](mailto:99.bhatvinit@gmail.com) [Telegram](https://t.me/BhatSahab)
+### Reach me out at: [Email](mailto:vinit@heim.com) [Telegram](https://t.me/BhatSahab)
 
 
 
