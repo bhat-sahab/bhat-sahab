@@ -2,8 +2,8 @@
 
 - 💻 I'm a Tech enthusiast
 - 🎓 I'm a 2nd year MCA Student at Jamia Millia Islamia
-- 🔭 I’m currently working as Programmer analyst.
-- ⚙  I’m learning backend development and DevOps.
+- 🔭 I’m currently working as SRE.
+- ⚙  I’m learning Cloud computing and DevOps.
 
 ### Reach me out at: 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:99.bhatvinit@gmail.com) 
